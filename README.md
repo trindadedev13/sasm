@@ -1,6 +1,6 @@
 # SASM (Simulated Assembly)
-- SASM is a simple operating system simulator that reads assembly language and does something.
-
+- SASM is a simple language inspired by assembly.
+  
 ## JMP, CALL & RET
 ### JMP
 - Jumps to a label and continues the flow there.
